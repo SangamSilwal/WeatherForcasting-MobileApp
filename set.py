@@ -6,6 +6,7 @@ from kivymd.uix.textfield import MDTextField
 from kivymd.uix.button import MDRaisedButton
 from kivymd.uix.boxlayout import MDBoxLayout
 from kivy.uix.image import Image
+from kivymd.uix.card import MDCard
 from kivymd.uix.screenmanager import ScreenManager
 from test_weather import get_weather_data
 
